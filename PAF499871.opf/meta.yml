@@ -1,0 +1,29 @@
+id: PAF499871
+initial_creation_type: input
+source_metadata:
+  title: Khenpo Pema Vajra Series
+  language: en
+  description: Texts by and about the Dzogchen scholar Khenpo Pema Vajra (padma badzra,
+    c. 1807–1884), also known as Khenpo Pema Dorje.
+  volume:
+    0ec25dd59f0f4d16acb0c5736e3ff0c6:
+      title: A Liberating Reminder
+      parent: Advice
+    d0324f1dac274d36977ae7c5955fa1a2:
+      title: The Life of Khenpo Pema Vajra
+      parent: Biography
+    92d01c50787a49a6a5ef123b1e43e626:
+      title: A Brief Overview of the Three Turnings and the Mantra Piṭaka of the Vidyādharas
+      parent: Commentaries
+    2eba4a8016034089942a6431c1e7c29e:
+      title: 'Words from the Lineage Masters to Clarify Maitreyanātha''s Vision: An
+        Overview of the Perfection of Wisdom''s Ornament of Realization'
+      parent: Commentaries
+    1526671ff4c84b9180847783d5734955:
+      title: A Clear and Concise Description of the Practice of Śamatha
+      parent: Meditation
+    3559bb3249524c92b82462979cde3d04:
+      title: Brief Light Offering Prayer
+      parent: Prayers
+created_at: '2022-03-01T00:26:49.560937'
+last_modified_at: '2022-03-01T00:26:49.560944'
